@@ -4,6 +4,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between h-16">
           <div class="flex items-center">
+            <img src="../assets/logo.png" alt="Company Logo" class="h-10 w-auto" />
             <h1 class="text-2xl font-bold text-indigo-600">Financial Dashboard</h1>
           </div>
           <div class="flex items-center">
